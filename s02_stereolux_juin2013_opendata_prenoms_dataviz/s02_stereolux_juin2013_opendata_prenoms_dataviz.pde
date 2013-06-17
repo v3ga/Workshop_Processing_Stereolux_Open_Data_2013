@@ -98,11 +98,11 @@ void draw()
       angle += d;
     }
     
-    String strTitle = listAnnees.get(indexAnnee);
+    String strTitle = ""+listAnnees.get(indexAnnee);
     float hTitle = 30;
-    float wTitle
     textSize(hTitle);
-    text(strTitle,0,hTitle/2);
+    float wTitle = textWidth(strTitle);
+    text(strTitle,-wTitle/2,hTitle/2);
   }
   // Dessin des histogrammes
   else
