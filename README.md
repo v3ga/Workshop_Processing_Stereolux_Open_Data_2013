@@ -8,4 +8,4 @@ La version 2 de Processing a été utilisée pour ces nouvelles fonctionnalités
 * [SQLibrary](http://bezier.de/processing/libs/sql/)
 
 ## Images
-![Représentation](http://v3ga.github.io/Images/Workshop_Processing_Stereolux_Open_Data_2013/Prenoms_2002.png)
+![Représentation](http://v3ga.github.io/Images/Workshop_Processing_Stereolux_Open_Data_2013/Prenoms_2002.jpg)
